@@ -1,2 +1,19 @@
-# Driver_Drowsiness_Alert
-We noticed that 21%of all fatal accidents are due to drowsy driving. 60% of adult driver have driven vehicle while feeling drowsy .Hence here we tried to create a driver drowsiness alert system aimed to alert driver before they sleep . Here we made a CNN model that works on frames and focus in the eye moment of driver . 
+# 🚗 Drowsy Driver Monitoring and Detection --
+ 
+#### Using tkinter and OpenCV --
+
+- The alert system will activate as soon as the driver's head will incline by some angle and the eye level will shift.
+- The beeping mechanism will help him be alert. 
+- The GUI has been done using Tkinter.
+
+#### ✔ Import Libraries --
+    - import numpy
+    - from pygame import mixer
+    - import time
+    - import cv2
+    - from tkinter import *
+    - import tkinter.messagebox
+    
+    
+Still Working on the accuracy part 🤓.
+
